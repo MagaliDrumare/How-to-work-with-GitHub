@@ -4,3 +4,4 @@
 * GitHub on demand training : https://services.github.com/on-demand/
 * Writing on GitHub: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 * How to Use Git and GitHub : https://in.udacity.com/course/how-to-use-git-and-github--ud775/
+* GitHub Upload files to your repositories: https://github.com/blog/2105-upload-files-to-your-repositories
