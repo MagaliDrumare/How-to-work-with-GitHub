@@ -6,29 +6,30 @@
 * How to Use Git and GitHub : https://in.udacity.com/course/how-to-use-git-and-github--ud775/
 * GitHub Upload files to your repositories: https://github.com/blog/2105-upload-files-to-your-repositories
 
-# GiHub Introduction :  https://www.udemy.com/devslopes-ios11/learn/v4/t/lecture/7577242?start=0
+# GiHub Introduction :  
+* On Udemy : https://www.udemy.com/devslopes-ios11/learn/v4/t/lecture/7577242?start=0
 
-* Must work with version control 
+# Must work with version control 
 -Work with version control commit 
 -push on the server 
 -pull  from the server 
 -merge 
 
-* Work with the terminal 
+# Work with the terminal 
 -changing directory 
 -cd Desktop 
 -view all the items on the desktop ls 
 -dive into the other directory with cd 
 -cd .. go back 
 
-* Work with the terminal 
+# Work with the terminal 
 -mkdir create a folder
 -touch create a file  
 -touch index html 
 -touch styles.css 
 -touch touch main.js
 
-* Terminal Basics 
+# Terminal Basics 
 - mv main.js js (mv file folder)
 -mv :  move to a folder
 -mv main.js ../
@@ -38,11 +39,11 @@
 - mv master.js tata.js 
 - mv old_file new_file : rename a file 
 
-* Delete Files and Directories
+# Delete Files and Directories
 -rm index.html : remove a file 
 -rm -R js : remove a folder
 
-* Local and Remote Directory 
+# Local and Remote Directory 
 -cd Desktop 
 -create a Repo in GitHub Test
 -git clone https://github.com/MagaliDrumare/Test.git
